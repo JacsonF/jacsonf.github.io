@@ -54,4 +54,6 @@ Se estiver tudo ok, você poderar ver seu tema rodando localmente em sua máquin
 Agora é a melhor parte, você poderá customizar seu blog como bem entender :D
 
 
-## Estrutura do Jekyll
+Apos customizar seu blog, comite-o para seu github, e alguns minutos depois acesse o endereço: https://seunicknogithub.github.io.
+
+Simples e rápido!

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Sep 2017 23:04:52 -0300</pubDate>
-    <lastBuildDate>Sat, 23 Sep 2017 23:04:52 -0300</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2017 10:47:22 -0300</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2017 10:47:22 -0300</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
@@ -54,7 +54,9 @@ Acesse o Git Hub e crie um repositorio com essa nomeclatura:&lt;/p&gt;
 
 &lt;p&gt;Agora é a melhor parte, você poderá customizar seu blog como bem entender :D&lt;/p&gt;
 
-&lt;h2 id=&quot;estrutura-do-jekyll&quot;&gt;Estrutura do Jekyll&lt;/h2&gt;
+&lt;p&gt;Apos customizar seu blog, comite-o para seu github, e alguns minutos depois acesse o endereço: https://seunicknogithub.github.io.&lt;/p&gt;
+
+&lt;p&gt;Simples e rápido!&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Sep 2017 19:18:24 -0300</pubDate>
         <link>http://localhost:4000/2017/09/23/usando-jekyll.html</link>
