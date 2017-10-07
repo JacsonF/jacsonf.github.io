@@ -26,3 +26,9 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+
+
+name: Jacson Ferreira
+description: Blog sobre experiências com tecnologias.
+url: https://jacsonf.github.io/
