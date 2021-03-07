@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Sobre
-subtitle:
-permalink: /about/
+layout: default
+title: About Me
 ---
 
+<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
 
-Olá, meu nome é Jacson, sou programador e estudo Ciência da computação na PUC Minas.
-Criei este blog com intuito de compartilhar experiências acadêmicas, profissionais e do dia-a-dia.
+Me chamo Jacson, criei este simples blog para poder compartilhar coisas que eu aprendo e retribuir toda a ajuda que obtive da comunidade nesses anos de carreira.
+Gosto da idéia de OpenSource, tenho vontade de contribuir em vários projetos, ainda estou sondando alguns para ver como posso contribuir, toda indicação é bem-vinda.
+
+
+
