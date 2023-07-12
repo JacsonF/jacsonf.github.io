@@ -1,12 +1,8 @@
 ---
-layout: default
-title: About Me
+layout: page
+title: About
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
+This is an example page!
 
-Me chamo Jacson, criei este simples blog para poder compartilhar coisas que eu aprendo e retribuir toda a ajuda que obtive da comunidade nesses anos de carreira.
-Gosto da idéia de OpenSource, tenho vontade de contribuir em vários projetos, ainda estou sondando alguns para ver como posso contribuir, toda indicação é bem-vinda.
-
-
-
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!
